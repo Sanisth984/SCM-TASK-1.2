@@ -1,1 +1,5 @@
-# SCM-TASK-1.2
+#include<stdio.h>
+int main(){
+printf("HELLO WORLD")
+return o;
+ }
